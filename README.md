@@ -14,9 +14,9 @@
 ---
 
 ## 🔗 Quick Links
-* **Figma Design File & Prototype:** 
-* **Mid-Review Presentation (Nov 25):** 
-* **Project Documentation:** 
+* **Figma Design File & Prototype:** *In progress — link will be added after team alignment*
+* **Mid-Review Presentation (Nov 25):** *Scheduled in `/04-presentations`*
+* **Project Documentation:** *In progress in `/01-research-and-strategy`*
 
 ---
 
@@ -24,9 +24,9 @@
 
 ### Phase 1: Discover & Define
 - [x] Project brief & scope alignment
-- [ ] Problem statement & competitive gap analysis
-- [ ] User persona & empathy mapping
-- [ ] Core user flows & Information Architecture (IA)
+- [x] Problem statement & competitive gap analysis
+- [x] User persona & empathy mapping
+- [x] Core user flows & Information Architecture (IA)
 
 ### Phase 2: Interaction & Wireframing (Mid-Review Target: Nov 25)
 - [ ] Atomic Research Card component architecture
