@@ -1,10 +1,11 @@
+
 # Target User Persona & Empathy Map
 
 ## Project: Synapse – Spatial Intelligence & Sensemaking Canvas
 
 ## 1. Overview
 
-This document identifies the primary target user for Synapse and explores their goals, behaviours, frustrations, needs and expectations.
+This document identifies the primary target user for Synapse and explores their goals, behaviours, frustrations, needs, and expectations.
 
 The purpose of this persona is to understand how users handle complex information and how an intelligent spatial workspace could improve their research and idea-organization workflows.
 
@@ -18,18 +19,21 @@ The purpose of this persona is to understand how users handle complex informatio
 
 ### Dr. Ananya Menon
 
-**Role:** Senior Academic Researcher  
-**Age:** 34  
-**Location:** Bengaluru, India  
-**Experience:** 8 years in academic research  
-**Education:** PhD in Social Sciences  
-**Technical Proficiency:** Advanced
+| Persona Attribute | Details |
+|---|---|
+| Name | Dr. Ananya Menon |
+| Role | Senior Academic Researcher |
+| Age | 34 |
+| Location | Bengaluru, India |
+| Experience | 8 years in academic research |
+| Education | PhD in Social Sciences |
+| Technical Proficiency | Advanced |
 
 ### Background
 
-Dr. Ananya Menon is an academic researcher involved in interdisciplinary research projects. Her work involves reviewing academic papers, collecting research data, analyzing findings and identifying relationships between different concepts.
+Dr. Ananya Menon is an academic researcher involved in interdisciplinary research projects. Her work involves reviewing academic papers, collecting research data, analyzing findings, and identifying relationships between different concepts.
 
-She frequently works with multiple research documents, references, notes and observations. As the volume of information increases, organizing and connecting related findings becomes increasingly challenging.
+She frequently works with multiple research documents, references, notes, and observations. As the volume of information increases, organizing and connecting related findings becomes increasingly challenging.
 
 She prefers structured workflows but also values visual representations that help her explore relationships between complex ideas.
 
@@ -42,7 +46,9 @@ She prefers structured workflows but also values visual representations that hel
 - Research-driven
 - Organized and methodical
 
-## 3. Goals and Motivations
+---
+
+# 3. Goals and Motivations
 
 ### Primary Goals
 
@@ -61,13 +67,15 @@ She prefers structured workflows but also values visual representations that hel
 - Discover connections that may not be immediately obvious.
 - Maintain a structured knowledge repository.
 
-## 4. User Workflow
+---
+
+# 4. User Workflow
 
 Ananya follows a research workflow involving several stages.
 
 | Stage | Activity | Challenge |
 |---|---|---|
-| Research collection | Collects papers, articles and reference materials | Information comes from multiple sources |
+| Research collection | Collects papers, articles, and reference materials | Information comes from multiple sources |
 | Literature review | Reads and analyzes research papers | Large volumes of information |
 | Note-taking | Records important observations and findings | Notes become scattered |
 | Concept organization | Groups related findings and topics | Manual organization takes effort |
@@ -76,7 +84,9 @@ Ananya follows a research workflow involving several stages.
 
 *Illustrative workflow based on the proposed persona; not a validated user study.*
 
-## 5. Daily Frustrations (Pain Points)
+---
+
+# 5. Daily Frustrations (Pain Points)
 
 1. Research information is distributed across multiple documents and platforms.
 2. Organizing large collections of notes requires repetitive manual effort.
@@ -84,9 +94,11 @@ Ananya follows a research workflow involving several stages.
 4. Important observations may get lost among large amounts of information.
 5. Traditional documents do not always provide an effective overview of interconnected concepts.
 6. Updating manually created diagrams can become time-consuming.
-7. Switching between reading, note-taking and visual mapping interrupts the workflow.
+7. Switching between reading, note-taking, and visual mapping interrupts the workflow.
 
-## 6. User Needs and Expectations
+---
+
+# 6. User Needs and Expectations
 
 Ananya needs a workspace that allows her to:
 
@@ -102,9 +114,9 @@ Ananya needs a workspace that allows her to:
 
 # 7. Empathy Map
 
-The empathy map explores what the user thinks, feels, says and does while working with complex research information.
+The empathy map explores what the user thinks, feels, says, and does while working with complex research information.
 
-## THINKS
+### THINKS
 
 - "How are these research findings connected?"
 - "Am I missing an important relationship?"
@@ -112,7 +124,7 @@ The empathy map explores what the user thinks, feels, says and does while workin
 - "I need a better overview of my research."
 - "Can I identify a pattern across these different studies?"
 
-## FEELS
+### FEELS
 
 - Overwhelmed by large amounts of research information.
 - Frustrated when important findings are difficult to locate.
@@ -120,7 +132,7 @@ The empathy map explores what the user thinks, feels, says and does while workin
 - Motivated to develop meaningful research insights.
 - Concerned about maintaining accuracy and organization.
 
-## SAYS
+### SAYS
 
 - "I have too many research notes to organize."
 - "I need everything in one place."
@@ -128,7 +140,7 @@ The empathy map explores what the user thinks, feels, says and does while workin
 - "I want to see the bigger picture."
 - "Organizing my research should be easier."
 
-## DOES
+### DOES
 
 - Reads and reviews academic papers.
 - Collects research references.
@@ -185,27 +197,89 @@ The persona suggests several important design considerations for Synapse.
 
 ---
 
-# 11. Research Assumptions and Validation
+# 11. Research Tools and Working Environment
+
+Ananya works with different digital tools to manage her academic research activities. She uses document editors to prepare research notes, reference management tools to organize academic sources, and spreadsheets to record and compare research findings.
+
+She may also use diagrams and visual boards to represent relationships between different concepts. However, moving between multiple tools can make it difficult to maintain a consistent overview of her research.
+
+A unified workspace could help her manage these activities more efficiently by bringing research notes, visual organization, and connected information into one environment.
+
+---
+
+# 12. Behaviour and Decision-Making
+
+Ananya prefers to understand information before organizing it into a final structure. She often reviews multiple sources, compares findings, identifies similarities, and groups related concepts.
+
+She values accuracy and prefers to maintain control over how research information is categorized. Although automated suggestions could reduce repetitive work, she expects to review and modify AI-generated results before accepting them.
+
+Her decision-making process is analytical and research-driven. She needs clear information and meaningful connections before developing conclusions or hypotheses.
+
+---
+
+# 13. Expectations from an Ideal Workspace
+
+An ideal research workspace should provide a combination of flexibility, organization, and clarity.
+
+Ananya expects to:
+
+- Collect information from different sources.
+- Arrange notes visually.
+- Identify relationships between concepts.
+- Access original information without losing its context.
+- Navigate between detailed notes and an overall research view.
+- Modify the workspace as her research develops.
+- Maintain a clear and organized knowledge structure.
+
+The workspace should support both detailed examination and a broader overview of the research.
+
+---
+
+# 14. How Synapse Can Support the Persona
+
+Synapse can support Ananya by providing a centralized spatial environment for collecting and exploring research information.
+
+The canvas allows her to place notes freely, while AI-assisted clustering can suggest groups of related concepts. Visual connections can help her explore possible relationships between findings.
+
+The ability to zoom between detailed cards, group-level views, and an overall knowledge map can support different stages of her research workflow.
+
+The proposed features include:
+
+- **Spatial Note Organization:** Collect and position research notes within an infinite canvas.
+- **Intelligent Grouping:** Suggest clusters of related research information.
+- **Semantic Connections:** Display potential relationships between different notes.
+- **Flexible Canvas:** Allow users to rearrange and organize information.
+- **Knowledge Overview:** Help users understand the overall structure of their research.
+- **AI Executive Brief:** Generate a structured summary from organized research content.
+
+These features are intended to assist the user's decision-making while keeping them in control of the final organization.
+
+---
+
+# 15. Research Assumptions and Validation
 
 This persona represents a hypothetical target user created during the initial design and research phase.
 
-The following assumptions require validation through interviews, surveys or usability testing:
+The following assumptions require validation through interviews, surveys, or usability testing:
 
 - Researchers experience difficulties organizing large collections of research notes.
 - Researchers find visual relationship mapping useful.
 - Manual organization creates friction in their existing workflows.
 - Researchers would benefit from combining documentation and spatial exploration.
 - Intelligent grouping could improve their information-organization experience.
+- Researchers prefer having control over AI-generated suggestions.
+
+Actual user interviews and usability testing should be conducted to determine whether these assumptions reflect real user experiences.
 
 ---
 
-# 12. Conclusion
+# 16. Conclusion
 
-The primary user persona highlights the challenges academic researchers face when collecting, organizing and connecting complex information.
+The primary user persona highlights the challenges academic researchers face when collecting, organizing, and connecting complex information.
 
-Synapse aims to address these challenges through an intelligent spatial workspace that supports visual exploration, meaningful relationships and structured knowledge organization.
+Synapse aims to address these challenges through an intelligent spatial workspace that supports visual exploration, meaningful relationships, and structured knowledge organization.
 
-The objective is to help users move from scattered information towards connected and understandable knowledge.
+By combining flexible canvas interactions with AI-assisted organization, Synapse aims to help users move from scattered information towards connected and understandable knowledge.
 
 ---
 
@@ -213,4 +287,5 @@ The objective is to help users move from scattered information towards connected
 **Domain:** UI/UX Design  
 **Primary Persona:** Academic Researcher  
 **Adjacent Audience:** UX Researchers  
-**Document:** Target User Persona & Empathy Map
+**Document:** Target User Persona & Empathy Map  
+**Persona Status:** Hypothetical – Requires User Research Validation
