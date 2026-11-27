@@ -1,67 +1,96 @@
-# Problem Statement
+# 01. Problem Statement & Objectives
 
-## Project Title
-**Synapse: Spatial Intelligence & Sensemaking Canvas**
+## 1.1 Project Introduction
 
-## 1. Introduction
+**Project Name:** Synapse  
+**Project Title:** Spatial Intelligence & Sensemaking Canvas
 
-In today's digital environment, individuals and teams use various tools to capture, organize and communicate their ideas. Platforms such as Notion and Google Docs provide structured documentation, while Miro and FigJam offer visual brainstorming through digital whiteboards.
+Synapse is a spatial intelligence and sensemaking platform designed to help investigators and intelligence analysts explore complex information and understand relationships between different entities.
 
-However, these approaches create different experiences for organizing information. Document-based platforms primarily follow structured layouts, whereas whiteboard platforms provide spatial flexibility but may require users to manually arrange, group and connect ideas.
+The platform provides an interactive, node-based workspace where users can organize, connect, and analyze investigative data such as people, organizations, financial transactions, communication records, and legal documents.
 
-## 2. Problem Identification
+Through an infinite canvas, semantic connections, and multiple levels of zoom, Synapse aims to make complex information easier to explore and understand.
 
-Existing digital workspace tools present certain challenges when users work with complex and evolving ideas:
+## 1.2 Problem Statement
 
-- Linear documentation can make visual exploration of relationships between ideas less intuitive.
-- Manual arrangement of sticky notes and visual elements can interrupt the brainstorming process.
-- Connecting related concepts across a large canvas can become difficult.
-- Maintaining an organized and understandable workspace requires continuous user effort.
-- Switching between documentation and visual brainstorming tools can fragment the workflow.
+Investigators and intelligence analysts often work with information collected from multiple sources. Understanding how different entities are connected can become difficult when the information is scattered across documents, records, and separate tools.
 
-## 3. Problem Statement
+The major challenges include:
 
-There is a need for an intelligent spatial workspace that combines the flexibility of visual brainstorming with the clarity of structured documentation.
+- **Fragmented information:** Relevant data is distributed across multiple sources and formats.
+- **Manual relationship mapping:** Identifying and documenting connections between entities can require significant manual effort.
+- **Information overload:** Large amounts of investigative data can make important details difficult to identify.
+- **Context switching:** Moving between different documents and tools interrupts the investigation workflow.
+- **Complex relationship analysis:** Understanding connections between people, organizations, transactions, and communication records can be challenging.
+- **Navigation difficulties:** Exploring large networks of connected information requires an effective way to navigate and maintain context.
 
-The proposed solution, Synapse, aims to explore a unified environment where users can capture, organize, connect and understand ideas through an intuitive spatial canvas with reduced manual organizational effort.
+## 1.3 Proposed Solution
 
-## 4. Project Objectives
+Synapse proposes a unified spatial workspace that allows users to visually organize and explore investigative information.
 
-1. Identify limitations in existing documentation and whiteboard platforms.
-2. Understand user needs and challenges during brainstorming and idea organization.
-3. Explore spatial approaches to organizing complex information.
-4. Design an intuitive and user-friendly canvas interface.
-5. Explore intelligent ways to organize and connect related ideas.
-6. Develop wireframes and interactive prototypes to demonstrate the proposed experience.
+The platform uses an interactive node-based canvas where each entity is represented as a node and relationships between entities are represented through semantic connections.
 
-## 5. Proposed Solution
+Key solution features include:
 
-Synapse is proposed as a spatial intelligence and sensemaking canvas that bridges traditional document-based workflows and visual brainstorming environments.
+- A unified investigation canvas for organizing information.
+- Entity nodes representing people, organizations, transactions, communication records, and legal documents.
+- Visual connections that represent relationships between entities.
+- Drag-and-drop interaction for arranging and organizing nodes.
+- Infinite canvas navigation with pan and zoom functionality.
+- Semantic zoom levels that adapt the displayed information according to the user's level of exploration.
+- Contextual information panels for examining selected entities.
+- Visual grouping of related entities to support investigation and sensemaking.
 
-The design aims to provide:
-- A flexible spatial workspace.
-- Visual organization of ideas.
-- Meaningful connections between related concepts.
-- Intelligent grouping and organization.
-- A clear and intuitive user experience.
+## 1.4 Project Objectives
 
-## 6. Expected Outcome
+The primary objectives of Synapse are:
 
-The expected outcome is a UI/UX prototype demonstrating how an intelligent spatial workspace could make brainstorming, idea organization and knowledge exploration more intuitive.
+1. To create a unified visual workspace for investigative information.
+2. To represent different investigative entities through interactive nodes.
+3. To visualize semantic relationships between connected entities.
+4. To enable users to arrange and organize information through drag-and-drop interactions.
+5. To provide smooth navigation through an infinite canvas.
+6. To implement three semantic zoom levels: Micro, Macro, and Meta.
+7. To support contextual exploration of individual entities and their relationships.
+8. To establish a consistent and reusable UI design system.
+9. To develop a high-fidelity interactive prototype demonstrating the proposed experience.
 
-## 7. Competitive Benchmarking
+## 1.5 Expected Outcomes
 
-The project studies the following existing platforms:
+The expected outcome of the project is a high-fidelity interactive prototype of the Synapse Spatial Intelligence & Sensemaking Canvas.
 
-- Notion
-- Google Docs
-- Miro
-- FigJam
+The prototype is expected to demonstrate:
 
-The comparison focuses on their approaches to documentation, spatial organization, brainstorming and connecting ideas.
+- An interactive investigation workspace.
+- Visual representation of investigative entities as nodes.
+- Semantic relationship visualization.
+- Drag-and-drop node interaction.
+- Infinite canvas navigation.
+- Micro, Macro, and Meta semantic zoom levels.
+- Contextual entity information.
+- A consistent UI component library and design system.
 
----
+The final design should demonstrate how a spatial interface can support the organization, exploration, and understanding of complex investigative information.
 
-**Project Domain:** UI/UX Design  
-**Project:** Synapse – Spatial Intelligence & Sensemaking Canvas  
-**Project Status:** Research and Design Phase
+## 1.6 Competitor Benchmarking
+
+The following products can be considered for an initial comparison of relevant interface patterns and design approaches.
+
+| Platform | Relevant Area | Design Opportunity for Synapse |
+|---|---|---|
+| Miro | Collaborative visual canvas | Explore flexible canvas navigation and visual organization. |
+| FigJam | Visual collaboration and diagramming | Study simple interactions and approachable visual design. |
+| Palantir Gotham | Investigative intelligence workflows | Explore approaches to connecting and analyzing complex information. |
+| Linkurious | Graph visualization and relationship exploration | Study visual representation of connected entities and networks. |
+
+### Key Design Opportunities
+
+Based on the initial comparison, Synapse can focus on:
+
+- Combining an open-ended spatial canvas with investigation-focused workflows.
+- Making relationships between entities visually understandable.
+- Supporting both detailed entity inspection and high-level network exploration.
+- Providing consistent navigation across different information scales.
+- Maintaining a clear and organized interface when working with complex data.
+
+*Note: This is an initial qualitative benchmark. Specific competitor capabilities should be verified before making detailed feature comparisons.*
